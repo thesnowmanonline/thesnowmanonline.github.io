@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Snowman Online</title>
-    <link>https://example.com/</link>
+    <link>https://thesnowman.onlone/</link>
     <description>Recent content on The Snowman Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thesnowman.onlone/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to The Snowman Online</title>
-      <link>https://example.com/posts/welcome/</link>
+      <link>https://thesnowman.onlone/posts/welcome/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/welcome/</guid>
+      <guid>https://thesnowman.onlone/posts/welcome/</guid>
       <description>The Snowman Online is dedicated to helping flakes around the world with the Snowflake cloud data warehouse. The site will provide a series of blogs, tutorials and amusement for you all to enjoy and hopefully further your careers with this amazing technology.
 I am just a simple Snowman. I don&amp;rsquo;t have any affiliations and my goal is just to assist and have some fun along the way. I&amp;rsquo;m always looking to improve the site so please do provide any feedback that you think may help and if you have a question please send me a mail or contact me over on twitter.</description>
     </item>
     
     <item>
       <title>About The Snowman Online</title>
-      <link>https://example.com/about-hugo/</link>
+      <link>https://thesnowman.onlone/about-hugo/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about-hugo/</guid>
+      <guid>https://thesnowman.onlone/about-hugo/</guid>
       <description>The Snowman Online is a sanctuary for all those flakes around the world that need help and advice on how to better use Snowflake.</description>
     </item>
     
