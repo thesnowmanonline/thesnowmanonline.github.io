@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://thesnowman.onlone/posts/welcome/</loc>
+    <loc>https://thesnowman.online/posts/welcome/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thesnowman.onlone/about-hugo/</loc>
+    <loc>https://thesnowman.online/about-hugo/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thesnowman.onlone/posts/</loc>
+    <loc>https://thesnowman.online/posts/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thesnowman.onlone/tags/</loc>
+    <loc>https://thesnowman.online/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thesnowman.onlone/</loc>
+    <loc>https://thesnowman.online/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
